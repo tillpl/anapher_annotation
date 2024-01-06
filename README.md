@@ -3,4 +3,5 @@ gdown.py was used to download all available data.
 text.xsl was used to extract the text content of eacht xml-file.
 NeueUeberfuehrung.xsl was used to create a prompt that is meant to train ChatGPT to correctly annotate anaphoric expressions.
 Excel_Evaluation.xsl was used to manually (in EXCEL) evaluate the annotations made by ChatGPT.
-Ergebnisse.xlsx contains the evaluation in the 'Results'-sheet and the product of 'text.xsl' in 'Annotation_for_Training'-sheet.
+Ergebnisse.xlsx contains the evaluation in the 'Results'-sheet (final results to the left and pre-training results to the right) and the product of 'text.xsl' in 'Annotation_for_Training'-sheet.
+From here the prompts were copied into the ChatGPT message line after ChatGPT was asked to mark anaphoric expressions in a text in bold-face.
