@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE gnomedoc SYSTEM "dtd/masxmlpd.dtd">
+<gnomedoc>
+<header>
+<fileDesc>
+
+<titleStmt>
+<title>Human mail</title>
+<author>Wikipedia</author></titleStmt>
+<publicationStmt>
+<web>
+<publisher>Wikipedia</publisher>
+<url>http://en.wikipedia.org/wiki/Human_mail</url></web>
+<availability>All text is available under the terms of the GNU Free Documentation License</availability>
+<date>4 December 2008</date></publicationStmt>
+<sourceDesc>
+<filename>data\game\wikipedia\unusual\Human_mail.htm</filename>
+<date>4 December 2008</date></sourceDesc></fileDesc>
+<revisionDesc>
+<change>
+<date>20 January 2022</date>
+<respStmt>
+<name>Juntao Yu</name>
+<resp>Automatic Processing</resp>
+</respStmt>
+<TEIitem>Apply hidden markables and markable boundary changes</TEIitem>
+</change>
+<change>
+<date>19 Jan 2022</date>
+<respStmt>
+<name>Phrase Detectives (Jon Chamberlain)</name>
+<resp>Automatic Processing</resp>
+</respStmt>
+<TEIitem>Exported the document and annotations from the Phrase Detectives game (draft markables)</TEIitem>
+</change>
+<change>
+<date>2009-02-14 20:02:57</date>
+<respStmt>
+<name>Phrase Detectives</name>
+<resp>Automatic Processing</resp>
+</respStmt>
+<TEIitem>The document has been marked as complete (all markables are sufficiently annotated according to game criteria)</TEIitem>
+</change>
+
+<change>
+<date>4 December 2008</date>
+<respStmt>
+<name>Mark Schellhase</name>
+<resp>Automatic Processing</resp></respStmt>
+<TEIitem>File converted to MASXML by automatic processing from HTML</TEIitem></change><change><date>23 April 2023</date><respStmt><name>Juntao Yu</name><resp>Automatic Processing</resp></respStmt><TEIitem>Add MPA and dali-full-anaphora-system annotations to the file.</TEIitem></change></revisionDesc>
+</header>
+<body>
+<section>
+<p id="p1">
+<s id="s1">
+<unit id="unit1"><ne AAcat="bare-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7756"><mod AAcat="AApre" id="AAm1"><W Lpos="JJ">Human</W></mod>
+<nphead id="AAh1"><W Lpos="NN">mail</W></nphead></ne>
+<ve id="ve1"><W Lpos="VBZ">is</W></ve>
+<ne id="ne7757"><W Lpos="DT">the</W>
+<W Lpos="NN">transportation</W>
+<W Lpos="IN">of</W>
+<ne AAcat="a-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7759"><W Lpos="DT">a</W>
+<nphead id="AAh2"><W Lpos="NN">person</W></nphead></ne>
+<W Lpos="IN">through</W>
+<ne AAcat="the-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7760"><W Lpos="DT">the</W>
+<mod AAcat="AApre" id="AAm2"><W Lpos="JJ">postal</W></mod>
+<nphead id="AAh3"><W Lpos="NN">system</W></nphead></ne></ne>
+<W Lpos=",">,</W>
+<W Lpos="RB">usually</W>
+<W Lpos="IN">as</W>
+<ne AAcat="a-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7761"><W Lpos="DT">a</W>
+<nphead id="AAh4"><W Lpos="NN">stowaway</W></nphead></ne>
+<W Lpos=".">.</W></unit>
+</s>
+<PDante id="ne7756">
+      <interpretation>
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-09 21:52:06" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:36:23" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="37" interface="0" mode="a" timestamp="2008-12-11 16:20:37" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 21:49:53" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="924" interface="0" mode="a" timestamp="2008-12-12 14:36:43" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="291" interface="0" mode="a" timestamp="2008-12-15 14:59:26" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-15 16:03:52" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:24:35" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-22 15:17:19" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2008-12-29 22:52:01" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:57:53" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:04:39" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7757">
+      <interpretation>
+        <anchor agree="y" annotation_time="8" ante="ne7756" interface="0" mode="a" timestamp="2008-12-09 21:52:19" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="7" ante="ne7756" interface="0" mode="a" timestamp="2008-12-11 16:20:47" type="DO" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="4" ante="ne7756" interface="0" mode="a" timestamp="2008-12-11 21:50:00" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="3" ante="ne7756" interface="0" mode="a" timestamp="2008-12-22 15:17:23" type="DO" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="13" ante="ne7756" interface="0" mode="a" timestamp="2008-12-29 22:52:22" type="DO" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="14" ante="ne7756" interface="0" mode="v" timestamp="2008-12-30 23:20:35" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="11" ante="ne7756" interface="0" mode="v" timestamp="2009-01-10 16:21:50" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="6" ante="ne7756" interface="0" mode="v" timestamp="2009-01-10 19:21:09" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="28" ante="ne7756" interface="0" mode="v" timestamp="2009-01-13 11:23:54" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="10" ante="ne7756" interface="0" mode="v" timestamp="2008-12-31 10:27:29" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor ante="ne7756" mode="e" timestamp="2009-04-16 18:04:52" type="DO" user_id="e18" />
+        <anchor agree="y" annotation_time="17" interface="0" mode="a" timestamp="2008-12-10 15:36:42" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:36:46" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:03:56" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:24:39" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-31 10:27:34" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-06 00:05:51" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-07 12:30:08" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="18" interface="0" mode="v" timestamp="2009-01-23 19:40:59" type="DN" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="6" interface="0" mode="v" timestamp="2009-01-19 03:08:13" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="n" annotation_time="17" interface="0" mode="v" timestamp="2009-01-20 16:55:12" type="DN" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="37" ante="ne7756" interface="0" mode="a" timestamp="2008-12-15 15:00:05" type="PR" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="4" ante="ne7756" interface="0" mode="a" timestamp="2009-01-19 03:08:18" type="PR" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="7" ante="ne7756" interface="0" mode="v" timestamp="2009-01-05 22:29:00" type="PR" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="23" ante="ne7756" interface="0" mode="v" timestamp="2009-01-07 03:43:56" type="PR" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="13" ante="ne7756" interface="0" mode="v" timestamp="2009-01-09 07:58:59" type="PR" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="7" ante="ne7756" interface="0" mode="v" timestamp="2009-01-10 12:24:58" type="PR" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="5" ante="ne7756" interface="0" mode="v" timestamp="2009-01-06 00:05:48" type="PR" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor ante="ne7756" favoured="y" mode="e" timestamp="2009-03-31 15:57:59" type="PR" user_id="e2" />
+        <anchor ante="ne7756" favoured="y" mode="e" timestamp="2009-04-16 18:04:52" type="PR" user_id="e18" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-20 16:55:18" type="PR" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="v" timestamp="2009-01-24 01:45:19" type="PR" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="v" timestamp="2009-01-26 02:13:05" type="PR" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="v" timestamp="2009-01-26 19:01:31" type="PR" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="18" interface="0" mode="v" timestamp="2009-01-26 19:42:20" type="PR" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="PR" user_id="e99" /><anchor ante="" timestamp="2023-04-25 11:59:15" type="PR" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="NR" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7759">
+      <interpretation>
+        <anchor agree="y" annotation_time="8" ante="ne7756" interface="0" mode="a" timestamp="2008-12-09 21:52:40" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="11" ante="ne7756" interface="0" mode="a" timestamp="2009-01-23 19:41:22" type="DO" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="9" ante="ne7756" interface="0" mode="v" timestamp="2009-01-10 12:25:19" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="4" ante="ne7756" interface="0" mode="v" timestamp="2009-01-19 03:08:24" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="n" annotation_time="8" ante="ne7756" interface="0" mode="v" timestamp="2009-01-20 16:55:28" type="DO" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="n" annotation_time="7" ante="ne7756" interface="0" mode="v" timestamp="2009-01-23 19:41:08" type="DO" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:36:49" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="a" timestamp="2008-12-11 16:22:47" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 21:50:12" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-12 14:36:52" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 15:01:40" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-15 16:04:02" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:24:46" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-29 22:52:37" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-31 10:27:47" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-06 00:06:05" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-07 03:46:24" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-07 12:30:26" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-09 07:59:39" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 12:25:23" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-13 11:24:17" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-19 03:08:27" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-20 16:55:33" type="DN" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2008-12-30 23:21:03" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2009-01-05 22:29:10" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="v" timestamp="2009-01-10 16:22:43" type="DN" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-10 19:21:27" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="9" interface="0" mode="v" timestamp="2009-01-13 11:24:09" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:06" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:05:03" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7760">
+      <interpretation>
+        <anchor agree="y" annotation_time="11" ante="ne7756" interface="0" mode="a" timestamp="2008-12-09 21:52:53" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" ante="ne7756" interface="0" mode="a" timestamp="2008-12-22 15:17:35" type="DO" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="3" ante="ne7756" interface="0" mode="v" timestamp="2009-01-07 12:30:31" type="DO" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="4" ante="ne7756" interface="0" mode="v" timestamp="2009-01-05 22:29:15" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="3" ante="ne7756" interface="0" mode="v" timestamp="2009-01-06 00:06:09" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="11" ante="ne7756" interface="0" mode="v" timestamp="2009-01-07 03:46:38" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="10" ante="ne7756" interface="0" mode="v" timestamp="2009-01-09 07:59:52" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:36:53" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-11 16:22:53" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 21:50:16" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:36:55" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 15:01:44" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:04:05" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-17 15:24:48" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-29 22:52:41" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-05 22:29:20" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-06 00:06:13" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2009-01-07 03:46:57" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2009-01-09 08:00:02" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="v" timestamp="2008-12-30 23:21:15" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2008-12-31 10:27:52" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="v" timestamp="2009-01-10 12:25:36" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="26" interface="0" mode="v" timestamp="2009-01-10 16:23:17" type="DN" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2009-01-10 19:21:31" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:09" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:05:15" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7761">
+      <interpretation>
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2008-12-09 21:53:05" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:36:57" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="a" timestamp="2008-12-11 16:23:06" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-11 21:50:24" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-15 15:01:52" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 16:04:09" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-17 15:24:51" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-22 15:17:39" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-30 23:21:23" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-05 22:29:33" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-07 03:47:22" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 12:25:53" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-06 00:06:17" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-07 12:30:37" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="17" interface="0" mode="v" timestamp="2009-01-09 08:00:21" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="154" interface="0" mode="v" timestamp="2009-01-10 16:26:01" type="DN" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="v" timestamp="2009-01-10 19:21:43" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:15" type="DN" user_id="e2" />
+        <anchor agree="y" annotation_time="7" ante="ne7759" interface="0" mode="a" timestamp="2008-12-29 22:52:49" type="DO" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="3" ante="ne7759" interface="0" mode="v" timestamp="2008-12-31 10:27:57" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="12" ante="ne7759" interface="0" mode="v" timestamp="2009-01-13 11:24:31" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="8" ante="ne7759" interface="0" mode="v" timestamp="2009-01-05 22:29:30" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="7" ante="ne7759" interface="0" mode="v" timestamp="2009-01-07 03:47:10" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="11" ante="ne7759" interface="0" mode="v" timestamp="2009-01-10 12:25:49" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+      <skip annotation_time="2" interface="0" timestamp="2008-12-12 14:36:58" user_id="5a7d55aadd4505e401af0074a0251ab6" user_rating="80" />
+    </PDante>
+<s id="s2">
+<unit id="unit2"><sbar id="sbar1"><W Lpos="IN">While</W>
+<W Lpos="JJ">rare</W></sbar>
+<W Lpos=",">,</W>
+<ne id="ne7762"><W Lpos="EX">there</W></ne>
+<ve id="ve2"><W Lpos="VBP">have</W>
+<W Lpos="VBN">been</W></ve>
+<ne id="ne7763"><W Lpos="DT">some</W>
+<ve id="ve3"><W Lpos="VBN">reported</W></ve>
+<W Lpos="NNS">cases</W>
+<W Lpos="IN">of</W>
+<ne id="ne7765"><W Lpos="NNS">people</W>
+<ve id="ve4"><W Lpos="VBG">attempting</W></ve>
+<unit id="unit3"><W Lpos="TO">to</W>
+<ve id="ve5"><W Lpos="VB">travel</W></ve>
+<W Lpos="IN">through</W>
+<ne AAcat="the-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7767"><W Lpos="DT">the</W>
+<nphead id="AAh5"><W Lpos="NN">mail</W></nphead></ne></unit></ne></ne>
+<W Lpos=".">.</W></unit>
+</s>
+<PDante id="ne7762">
+      <interpretation>
+        <anchor agree="y" annotation_time="16" interface="0" mode="a" timestamp="2008-12-09 21:53:23" type="NR" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:37:02" type="NR" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2008-12-11 16:23:16" type="NR" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-11 21:50:32" type="NR" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:37:01" type="NR" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-15 15:01:59" type="NR" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-15 16:04:16" type="NR" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="17" interface="0" mode="a" timestamp="2008-12-29 22:53:08" type="NR" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 12:26:15" type="NR" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-06 00:06:23" type="NR" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-07 12:30:43" type="NR" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="21" interface="0" mode="v" timestamp="2009-01-09 08:00:44" type="NR" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="21" interface="0" mode="v" timestamp="2009-01-10 16:26:33" type="NR" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-10 19:21:48" type="NR" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:22" type="NR" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:06:05" type="NR" user_id="e18" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:24:55" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="96" interface="0" mode="a" timestamp="2008-12-22 15:19:16" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="v" timestamp="2008-12-30 23:21:33" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="69" interface="0" mode="v" timestamp="2008-12-31 10:29:07" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-05 22:29:40" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="v" timestamp="2009-01-07 03:47:34" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="17" interface="0" mode="v" timestamp="2009-01-10 12:26:12" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="NR" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="NR" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="NR" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7763">
+      <interpretation>
+        <anchor agree="y" annotation_time="14" ante="ne7757" interface="0" mode="a" timestamp="2008-12-09 21:53:40" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="6" ante="ne7757" interface="0" mode="a" timestamp="2008-12-30 23:21:49" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="12" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 16:27:15" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="3" ante="ne7757" interface="0" mode="v" timestamp="2009-01-06 00:06:27" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="19" ante="ne7757" interface="0" mode="v" timestamp="2009-01-09 08:01:06" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="24" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 12:26:40" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="33" ante="ne7757" interface="0" mode="v" timestamp="2009-01-20 16:56:08" type="DO" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:37:07" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-11 16:23:27" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-12 14:37:06" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-15 15:02:05" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 16:04:21" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:25:00" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-22 15:19:19" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="14" interface="0" mode="a" timestamp="2008-12-29 22:53:25" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-05 22:29:52" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2009-01-06 00:06:33" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-09 08:01:17" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 12:26:43" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 19:22:01" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2009-01-20 16:56:17" type="DN" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="198" interface="0" mode="v" timestamp="2009-01-07 03:50:54" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-07 12:30:49" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="21" interface="0" mode="v" timestamp="2009-01-13 11:24:55" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="7" interface="0" mode="v" timestamp="2008-12-30 23:21:42" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:35" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:06:19" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="8" ante="ne7756" interface="0" mode="a" timestamp="2008-12-11 21:50:42" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="5" ante="ne7756" interface="0" mode="v" timestamp="2008-12-31 10:29:13" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="18" ante="ne7756" interface="0" mode="v" timestamp="2009-01-19 03:08:46" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="n" annotation_time="4" ante="ne7756" interface="0" mode="v" timestamp="2009-01-05 22:29:48" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="8" ante="ne7756" interface="0" mode="v" timestamp="2009-01-10 19:21:58" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7765">
+      <interpretation>
+        <anchor agree="y" annotation_time="11" ante="ne7757" interface="0" mode="a" timestamp="2008-12-09 21:54:08" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="6" ante="ne7757" interface="0" mode="a" timestamp="2008-12-11 21:51:00" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="12" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 15:02:23" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="7" ante="ne7757" interface="0" mode="a" timestamp="2008-12-30 23:22:04" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="60" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 16:28:37" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="7" ante="ne7757" interface="0" mode="v" timestamp="2008-12-31 10:29:22" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="n" annotation_time="6" ante="ne7757" interface="0" mode="v" timestamp="2009-01-05 22:30:00" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="16" ante="ne7757" interface="0" mode="v" timestamp="2009-01-09 08:01:35" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="10" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 12:26:54" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:37:15" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-11 16:23:46" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-12 14:37:11" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:04:29" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="1249" interface="0" mode="a" timestamp="2008-12-17 15:45:53" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-22 15:19:38" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-29 22:53:45" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-31 10:29:25" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-05 22:30:04" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2009-01-09 08:01:41" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 12:26:57" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-06 00:06:38" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="v" timestamp="2009-01-07 03:51:12" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-07 12:30:52" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="v" timestamp="2009-01-10 19:22:10" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="5" interface="0" mode="v" timestamp="2008-12-30 23:21:56" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 15:58:46" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:06:29" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7767">
+      <interpretation>
+        <anchor agree="y" annotation_time="9" ante="ne7757" interface="0" mode="a" timestamp="2008-12-09 21:54:36" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="11" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 16:04:48" type="DO" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="12" ante="ne7757" interface="0" mode="a" timestamp="2009-01-10 12:27:35" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="30" ante="ne7757" interface="0" mode="a" timestamp="2009-01-26 19:02:21" type="DO" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="11" ante="ne7757" interface="0" mode="a" timestamp="2009-01-26 23:46:10" type="DO" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="n" annotation_time="11" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 12:27:21" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="5" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 19:22:24" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="20" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 19:43:42" type="DO" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="n" annotation_time="21" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 21:26:14" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="8" ante="ne7760" interface="0" mode="a" timestamp="2008-12-10 15:37:30" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="29" ante="ne7760" interface="0" mode="a" timestamp="2008-12-11 16:24:23" type="DO" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="5" ante="ne7760" interface="0" mode="a" timestamp="2008-12-11 21:51:11" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="10" ante="ne7760" interface="0" mode="a" timestamp="2008-12-12 14:37:24" type="DO" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="15" ante="ne7760" interface="0" mode="a" timestamp="2008-12-29 22:54:21" type="DO" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="11" ante="ne7760" interface="0" mode="a" timestamp="2008-12-30 23:22:44" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="4" ante="ne7760" interface="0" mode="a" timestamp="2008-12-31 10:30:25" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="31" ante="ne7760" interface="0" mode="a" timestamp="2009-01-09 08:03:55" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="6" ante="ne7760" interface="0" mode="a" timestamp="2009-01-10 19:22:32" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="4" ante="ne7760" interface="0" mode="a" timestamp="2009-01-19 03:09:12" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="17" ante="ne7760" interface="0" mode="a" timestamp="2009-01-27 15:48:30" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="y" annotation_time="22" ante="ne7760" interface="0" mode="a" timestamp="2009-01-27 16:17:45" type="DO" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="y" annotation_time="13" ante="ne7760" interface="0" mode="a" timestamp="2009-01-27 22:37:59" type="DO" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="y" annotation_time="7" ante="ne7760" interface="0" mode="a" timestamp="2009-01-28 00:24:51" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="47" ante="ne7760" interface="0" mode="a" timestamp="2009-01-28 01:21:46" type="DO" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="y" annotation_time="5" ante="ne7760" interface="0" mode="v" timestamp="2009-01-05 22:30:20" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" ante="ne7760" interface="0" mode="v" timestamp="2009-01-06 00:06:53" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="11" ante="ne7760" interface="0" mode="v" timestamp="2009-01-07 03:51:47" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="10" ante="ne7760" interface="0" mode="v" timestamp="2009-01-10 16:29:59" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="8" ante="ne7760" interface="0" mode="v" timestamp="2009-01-13 11:25:24" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor ante="ne7760" favoured="y" mode="e" timestamp="2009-03-31 15:59:15" type="DO" user_id="e2" />
+        <anchor ante="ne7760" mode="e" timestamp="2009-04-16 18:07:07" type="DO" user_id="e18" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2008-12-15 15:04:47" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="a" timestamp="2008-12-22 15:19:56" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-07 12:31:11" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="19" interface="0" mode="a" timestamp="2009-01-26 21:26:36" type="DN" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-26 23:37:54" type="DN" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="n" annotation_time="4" interface="0" mode="v" timestamp="2008-12-31 10:30:20" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="n" annotation_time="29" interface="0" mode="v" timestamp="2009-01-09 08:03:22" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="8" interface="0" mode="v" timestamp="2009-01-19 03:09:07" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="n" annotation_time="7" interface="0" mode="v" timestamp="2009-01-24 01:46:02" type="DN" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:07:07" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-17 15:46:05" type="PR" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2009-01-20 16:56:56" type="PR" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="13" interface="0" mode="a" timestamp="2009-01-27 20:35:49" type="PR" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="v" timestamp="2009-01-23 19:41:39" type="PR" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="6" interface="0" mode="v" timestamp="2008-12-30 23:22:31" type="PR" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="n" annotation_time="4" interface="0" mode="v" timestamp="2009-01-07 12:31:08" type="PR" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="6" interface="0" mode="v" timestamp="2009-01-20 16:56:49" type="PR" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="16" ante="ne7757" interface="0" mode="a" timestamp="2009-01-24 01:46:20" type="PR" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="y" annotation_time="33" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 02:14:45" type="PR" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="n" annotation_time="5" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 19:01:49" type="PR" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="n" annotation_time="15" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 21:05:17" type="PR" user_id="5b59dd45467cbc13d067761bdf6da343" user_rating="79" />
+        <anchor agree="n" annotation_time="13" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 23:45:56" type="PR" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="y" annotation_time="7" ante="ne7756" interface="0" mode="a" timestamp="2009-01-26 19:43:52" type="DO" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="n" annotation_time="25" ante="ne7756" interface="0" mode="v" timestamp="2009-01-27 15:48:09" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="n" annotation_time="26" ante="ne7756" interface="0" mode="v" timestamp="2009-01-27 22:37:44" type="DO" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="n" annotation_time="18" ante="ne7756" interface="0" mode="v" timestamp="2009-01-28 00:24:42" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="n" annotation_time="25" ante="ne7756" interface="0" mode="v" timestamp="2009-01-28 01:20:42" type="DO" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="y" annotation_time="31" ante="ne7757 ne7760" interface="0" mode="a" timestamp="2009-01-26 21:05:50" type="DO" user_id="5b59dd45467cbc13d067761bdf6da343" user_rating="79" />
+        <anchor agree="y" annotation_time="33" ante="ne7757 ne7760" interface="0" mode="v" timestamp="2009-01-26 21:55:54" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="n" annotation_time="19" ante="ne7757 ne7760" interface="0" mode="v" timestamp="2009-01-26 23:37:43" type="DO" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="n" annotation_time="21" ante="ne7757 ne7760" interface="0" mode="v" timestamp="2009-01-27 16:17:19" type="DO" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="n" annotation_time="17" ante="ne7757 ne7760" interface="0" mode="v" timestamp="2009-01-27 20:35:33" type="DO" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor ante="ne7760" favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DO" user_id="e99" /><anchor ante="ne7760" timestamp="2023-04-25 11:59:15" type="DO" user_id="MPA" /><anchor ante="ne7756" timestamp="2023-04-25 11:59:15" type="DO" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<s id="s3">
+<unit id="unit4"><ne id="ne7768"><W Lpos="DT">This</W>
+<W Lpos="NN">form</W>
+<W Lpos="IN">of</W>
+<ne AAcat="bare-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7770"><nphead id="AAh6"><W Lpos="NN">travel</W></nphead></ne></ne>
+<ve id="ve6"><W Lpos="VBZ">is</W></ve>
+<W Lpos="DT">both</W>
+<W Lpos="JJ">illegal</W>
+<W Lpos="CC">and</W>
+<W Lpos="RB">highly</W>
+<W Lpos="JJ">dangerous</W>
+<W Lpos=",">,</W>
+<W Lpos="IN">with</W>
+<unit id="unit5"><ne AAcat="bare-np" AAgen="neut" AAnum="plur" AAper="per3" id="ne7771"><nphead id="AAh7"><W Lpos="NNS">cases</W></nphead></ne>
+<ve id="ve7"><W Lpos="VBG">leading</W></ve>
+<W Lpos="TO">to</W>
+<ne id="ne7772"><ne AAcat="bare-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7773"><nphead id="AAh8"><W Lpos="NN">prosecution</W></nphead></ne>
+<W Lpos="CC">and</W>
+<ne AAcat="bare-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7774"><mod AAcat="AApre" id="AAm4"><W Lpos="JJ">serious</W></mod>
+<nphead id="AAh9"><W Lpos="NN">injury</W></nphead></ne></ne></unit>
+<W Lpos=".">.</W></unit>
+</s>
+<PDante id="ne7768">
+      <interpretation>
+        <anchor agree="y" annotation_time="9" ante="ne7763" interface="0" mode="a" timestamp="2008-12-09 21:54:48" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="19" ante="ne7763" interface="0" mode="a" timestamp="2009-01-26 21:27:15" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="5" ante="ne7763" interface="0" mode="v" timestamp="2009-01-07 12:31:17" type="DO" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="4" ante="ne7763" interface="0" mode="v" timestamp="2009-01-23 19:41:45" type="DO" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="24" ante="ne7763" interface="0" mode="v" timestamp="2009-01-09 08:04:21" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="11" ante="ne7763" interface="0" mode="v" timestamp="2009-01-27 20:36:03" type="DO" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="15" ante="ne7757" interface="0" mode="a" timestamp="2008-12-10 15:37:46" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 15:04:56" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="142" ante="ne7757" interface="0" mode="a" timestamp="2009-01-26 02:18:13" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="y" annotation_time="29" ante="ne7757" interface="0" mode="a" timestamp="2018-03-21 14:18:59" type="DO" user_id="15ee2757e06ae2e37323b889b40bf1e2" user_rating="92" />
+        <anchor agree="y" annotation_time="6" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 19:22:39" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="4" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 19:02:27" type="DO" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="9" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 19:44:04" type="DO" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="n" annotation_time="11" ante="ne7757" interface="0" mode="v" timestamp="2009-01-19 03:09:24" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="17" ante="ne7756 ne7757" interface="0" mode="a" timestamp="2008-12-11 16:24:44" type="DO" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="18" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-10 12:27:54" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="12" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-20 16:57:10" type="DO" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="15" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-26 23:38:13" type="DO" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="37" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-27 15:49:23" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="y" annotation_time="13" ante="ne7756" interface="0" mode="a" timestamp="2008-12-12 14:37:37" type="DO" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="7" ante="ne7756" interface="0" mode="a" timestamp="2008-12-29 22:54:29" type="DO" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="4" ante="ne7756" interface="0" mode="a" timestamp="2008-12-31 10:30:39" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="5" ante="ne7756" interface="0" mode="a" timestamp="2009-01-06 00:07:06" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" ante="ne7756" interface="0" mode="a" timestamp="2009-01-09 08:04:32" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="8" ante="ne7756" interface="0" mode="a" timestamp="2009-01-24 01:46:39" type="DO" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="y" annotation_time="44" ante="ne7756" interface="0" mode="a" timestamp="2009-01-28 00:26:07" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="10" ante="ne7756" interface="0" mode="v" timestamp="2009-01-26 23:46:22" type="DO" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="y" annotation_time="20" ante="ne7756" interface="0" mode="v" timestamp="2009-01-27 16:18:09" type="DO" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="n" annotation_time="12" ante="ne7756" interface="0" mode="v" timestamp="2009-01-07 03:52:03" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="8" ante="ne7756" interface="0" mode="v" timestamp="2009-01-26 02:15:00" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor ante="ne7756" mode="e" timestamp="2009-04-23 13:02:20" type="DO" user_id="e2" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-15 16:04:56" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:46:11" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-22 15:20:00" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="56" interface="0" mode="a" timestamp="2009-01-07 03:54:30" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="8" interface="0" mode="v" timestamp="2008-12-31 10:30:34" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="n" annotation_time="32" interface="0" mode="v" timestamp="2009-01-13 11:25:57" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="5" interface="0" mode="v" timestamp="2009-01-24 01:46:28" type="DN" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="n" annotation_time="15" interface="0" mode="v" timestamp="2009-01-26 21:26:54" type="DN" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="10" ante="ne7765" interface="0" mode="a" timestamp="2009-01-05 22:30:43" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="17" ante="ne7765" interface="0" mode="a" timestamp="2009-01-13 11:26:17" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="7" ante="ne7765" interface="0" mode="a" timestamp="2009-01-19 03:09:32" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="10" ante="ne7765" interface="0" mode="a" timestamp="2009-01-27 22:38:20" type="DO" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="y" annotation_time="48" ante="ne7765" interface="0" mode="v" timestamp="2009-01-10 16:30:58" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="15" ante="ne7765" interface="0" mode="v" timestamp="2009-01-26 21:56:15" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="y" annotation_time="20" ante="ne7765" interface="0" mode="v" timestamp="2009-01-28 06:26:47" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="21" ante="ne7765" interface="0" mode="v" timestamp="2009-01-28 14:34:09" type="DO" user_id="238913c9d61603f648ac82f7a0019b96" user_rating="69" />
+        <anchor ante="ne7765" favoured="y" mode="e" timestamp="2009-04-16 18:08:35" type="DO" user_id="e18" />
+        <anchor ante="ne7765" favoured="y" mode="e" timestamp="2009-04-23 13:02:20" type="DO" user_id="e2" />
+        <anchor agree="y" annotation_time="14" interface="0" mode="a" timestamp="2009-01-27 20:36:32" type="PR" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="33" interface="0" mode="v" timestamp="2009-01-28 01:22:34" type="PR" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="y" annotation_time="21" interface="0" mode="v" timestamp="2009-01-28 08:53:27" type="PR" user_id="82a6f9849f8c19d854e5a63cc974a5cd" user_rating="67" />
+        <anchor agree="n" annotation_time="7" interface="0" mode="v" timestamp="2009-01-27 22:38:08" type="PR" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="n" annotation_time="26" interface="0" mode="v" timestamp="2009-01-28 00:25:20" type="PR" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor ante="ne7756" mode="e" timestamp="2009-04-16 18:08:35" type="SE" user_id="e18" />
+      <anchor ante="ne7756" favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DO" user_id="e99" /><anchor ante="ne7756" timestamp="2023-04-25 11:59:15" type="DO" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7770">
+      <interpretation>
+        <anchor agree="y" annotation_time="8" ante="ne7763" interface="0" mode="a" timestamp="2008-12-09 21:55:02" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="7" ante="ne7763" interface="0" mode="a" timestamp="2009-01-26 19:02:44" type="DO" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="87" ante="ne7763" interface="0" mode="a" timestamp="2009-01-26 21:29:12" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="26" ante="ne7763" interface="0" mode="a" timestamp="2009-01-28 06:28:04" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="97" ante="ne7763" interface="0" mode="a" timestamp="2009-01-29 09:47:14" type="DO" user_id="6350f6155d46aa91c5e456929604de48" user_rating="83" />
+        <anchor agree="y" annotation_time="4" ante="ne7763" interface="0" mode="v" timestamp="2009-01-07 12:31:22" type="DO" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="4" ante="ne7763" interface="0" mode="v" timestamp="2009-01-06 00:07:12" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="27" ante="ne7763" interface="0" mode="v" timestamp="2009-01-10 12:28:22" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="8" ante="ne7763" interface="0" mode="v" timestamp="2009-01-20 16:57:19" type="DO" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="8" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 15:05:05" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="4" ante="ne7757" interface="0" mode="a" timestamp="2008-12-22 15:20:05" type="DO" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="9" ante="ne7757" interface="0" mode="a" timestamp="2009-01-28 15:01:20" type="DO" user_id="2cba7cfa58eb93642548cff62d27140b" user_rating="86" />
+        <anchor agree="y" annotation_time="8" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 21:06:08" type="DO" user_id="5b59dd45467cbc13d067761bdf6da343" user_rating="79" />
+        <anchor agree="n" annotation_time="7" ante="ne7757" interface="0" mode="v" timestamp="2009-01-05 22:30:52" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="20" ante="ne7757" interface="0" mode="v" timestamp="2009-01-13 11:27:32" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="8" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 19:44:15" type="DO" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="a" timestamp="2008-12-15 16:05:13" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-31 10:30:43" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2009-01-05 22:30:58" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2009-01-06 00:07:23" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="a" timestamp="2009-01-07 03:55:34" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2009-01-10 19:22:53" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="30" interface="0" mode="a" timestamp="2009-01-26 23:38:59" type="DN" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2009-02-14 15:32:53" type="DN" user_id="387d3dc6801ef9046cbf40cc20587360" user_rating="54" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2009-02-14 20:02:57" type="DN" user_id="732e4a4945c14358f904e7a7590d337f" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-28 14:34:13" type="DN" user_id="238913c9d61603f648ac82f7a0019b96" user_rating="69" />
+        <anchor agree="n" annotation_time="5" interface="0" mode="v" timestamp="2009-01-26 19:02:35" type="DN" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="n" annotation_time="23" interface="0" mode="v" timestamp="2009-01-28 15:01:07" type="DN" user_id="2cba7cfa58eb93642548cff62d27140b" user_rating="86" />
+        <anchor agree="n" annotation_time="28" interface="0" mode="v" timestamp="2009-01-29 00:08:56" type="DN" user_id="70b9e359372cd8726cf8de97e3508083" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:00:45" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:09:50" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="66" interface="0" mode="a" timestamp="2008-12-17 15:47:18" type="PR" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2009-01-20 16:57:31" type="PR" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="a" timestamp="2009-01-27 20:37:29" type="PR" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-28 00:26:54" type="PR" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="a" timestamp="2009-02-14 15:12:25" type="PR" user_id="da4bac4f7870316c7044ad742f205888" user_rating="75" />
+        <anchor agree="y" annotation_time="23" interface="0" mode="v" timestamp="2009-01-10 16:31:36" type="PR" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="v" timestamp="2009-01-23 19:41:56" type="PR" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="4" interface="0" mode="v" timestamp="2009-01-10 19:22:45" type="PR" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="13" interface="0" mode="v" timestamp="2009-01-26 23:38:28" type="PR" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="12" ante="ne7765" interface="0" mode="a" timestamp="2009-01-13 11:27:46" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="7" ante="ne7765" interface="0" mode="a" timestamp="2009-01-19 03:09:48" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="71" ante="ne7765" interface="0" mode="a" timestamp="2009-01-28 01:25:01" type="DO" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="y" annotation_time="10" ante="ne7765" interface="0" mode="a" timestamp="2009-02-04 11:23:36" type="DO" user_id="d5c37b8cba711313a6dfdc0e372f8c8a" user_rating="86" />
+        <anchor agree="y" annotation_time="17" ante="ne7765" interface="0" mode="a" timestamp="2009-02-04 13:21:55" type="DO" user_id="79c5eeca42586bf9cccbd3255dd18f30" user_rating="77" />
+        <anchor agree="y" annotation_time="12" ante="ne7765" interface="0" mode="v" timestamp="2009-01-26 21:56:32" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="y" annotation_time="7" ante="ne7765" interface="0" mode="v" timestamp="2009-01-27 16:18:23" type="DO" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="y" annotation_time="2" ante="ne7765" interface="0" mode="v" timestamp="2009-01-27 22:38:24" type="DO" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="n" annotation_time="314" ante="ne7765" interface="0" mode="v" timestamp="2009-01-26 02:23:38" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="y" annotation_time="30" ante="ne7756 ne7757" interface="0" mode="a" timestamp="2009-01-26 02:24:46" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="n" annotation_time="25" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-26 21:27:42" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="n" annotation_time="65" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-27 15:50:32" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="n" annotation_time="32" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-28 00:26:43" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="n" annotation_time="39" ante="ne7756 ne7757" interface="0" mode="v" timestamp="2009-01-28 06:27:34" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="24" ante="ne7763" interface="0" mode="a" timestamp="2009-01-29 00:09:31" type="PR" user_id="70b9e359372cd8726cf8de97e3508083" user_rating="75" />
+        <anchor agree="y" annotation_time="18" ante="ne7763" interface="0" mode="v" timestamp="2009-01-29 20:50:43" type="PR" user_id="c5fd095be9fbf5baffa96c49f2652161" user_rating="79" />
+        <anchor agree="y" annotation_time="33" ante="ne7763" interface="0" mode="v" timestamp="2009-01-30 05:52:29" type="PR" user_id="951d784ec31be729174f5ee2d7f97287" user_rating="92" />
+        <anchor agree="n" annotation_time="45" ante="ne7763" interface="0" mode="v" timestamp="2009-01-29 09:45:29" type="PR" user_id="6350f6155d46aa91c5e456929604de48" user_rating="83" />
+        <anchor agree="n" annotation_time="33" ante="ne7763" interface="0" mode="v" timestamp="2009-01-29 16:18:49" type="PR" user_id="88beb82dcc5eb0daf9a1890e51c5da83" user_rating="77" />
+        <anchor agree="y" annotation_time="46" ante="ne7757 ne7759 ne7760" interface="0" mode="a" timestamp="2009-01-29 16:20:00" type="DO" user_id="88beb82dcc5eb0daf9a1890e51c5da83" user_rating="77" />
+        <anchor agree="y" annotation_time="30" ante="ne7757 ne7759 ne7760" interface="0" mode="v" timestamp="2009-02-01 06:44:36" type="DO" user_id="dbda39b0d6b7016c78055f86099cb214" user_rating="62" />
+        <anchor agree="y" annotation_time="25" ante="ne7757 ne7759 ne7760" interface="0" mode="v" timestamp="2009-02-04 17:31:28" type="DO" user_id="5fe93114e32c66416cf5d7a3245d9a35" user_rating="83" />
+        <anchor agree="n" annotation_time="114" ante="ne7757 ne7759 ne7760" interface="0" mode="v" timestamp="2009-01-31 10:28:16" type="DO" user_id="a7f8139d7bbc4058e5b2e6fd4c1e949c" user_rating="82" />
+        <anchor agree="n" annotation_time="20" ante="ne7757 ne7759 ne7760" interface="0" mode="v" timestamp="2009-02-04 13:21:36" type="DO" user_id="79c5eeca42586bf9cccbd3255dd18f30" user_rating="77" />
+        <anchor agree="y" annotation_time="66" ante="ne7756" interface="0" mode="a" timestamp="2009-02-06 09:03:40" type="DO" user_id="68bc6cca268275e5bf73311f3d4555f9" user_rating="92" />
+        <anchor agree="y" annotation_time="40" ante="ne7756" interface="0" mode="a" timestamp="2009-02-10 13:44:48" type="DO" user_id="922a69f35362b7d56839e2e9ba76fb19" user_rating="100" />
+        <anchor agree="y" annotation_time="36" ante="ne7756" interface="0" mode="v" timestamp="2009-02-13 13:31:28" type="DO" user_id="e584b71cff96a689543b6be85b9a9491" user_rating="53" />
+        <anchor agree="n" annotation_time="25" ante="ne7756" interface="0" mode="v" timestamp="2009-02-14 15:12:07" type="DO" user_id="da4bac4f7870316c7044ad742f205888" user_rating="75" />
+        <anchor agree="n" annotation_time="8" ante="ne7756" interface="0" mode="v" timestamp="2009-02-14 15:32:44" type="DO" user_id="387d3dc6801ef9046cbf40cc20587360" user_rating="54" />
+        <anchor agree="n" annotation_time="36" ante="ne7756" interface="0" mode="v" timestamp="2009-02-14 20:02:52" type="DO" user_id="732e4a4945c14358f904e7a7590d337f" user_rating="80" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor ante="ne7765" timestamp="2023-04-25 11:59:15" type="DO" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+      <skip annotation_time="11" interface="0" timestamp="2008-12-10 15:37:58" user_id="c110584df2df3212114ad52c62d8f4f5" user_rating="81" />
+      <skip annotation_time="10" interface="0" timestamp="2008-12-12 14:37:47" user_id="4e82e4b5e992fd87757e915cd4536e68" user_rating="80" />
+    </PDante>
+<PDante id="ne7771">
+      <interpretation>
+        <anchor agree="y" annotation_time="8" ante="ne7763" interface="0" mode="a" timestamp="2008-12-09 21:55:11" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="10" ante="ne7763" interface="0" mode="a" timestamp="2008-12-10 15:38:08" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="10" ante="ne7763" interface="0" mode="a" timestamp="2008-12-15 15:05:16" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="79" ante="ne7763" interface="0" mode="v" timestamp="2009-01-10 16:33:19" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="13" ante="ne7763" interface="0" mode="v" timestamp="2009-01-13 11:28:15" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="10" ante="ne7763" interface="0" mode="v" timestamp="2009-01-20 16:57:44" type="DO" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="n" annotation_time="6" ante="ne7763" interface="0" mode="v" timestamp="2009-01-05 22:31:05" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="9" ante="ne7763" interface="0" mode="v" timestamp="2009-01-09 08:05:00" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor ante="ne7763" mode="e" timestamp="2009-04-16 18:10:11" type="DO" user_id="e18" />
+        <anchor agree="y" annotation_time="18" interface="0" mode="a" timestamp="2008-12-11 16:25:29" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:37:50" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 16:05:18" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:47:23" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-22 15:20:16" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-05 22:31:09" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2009-01-06 00:07:36" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2009-01-07 03:55:56" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-09 08:05:05" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 19:23:03" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2009-01-23 19:42:02" type="DN" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="7" interface="0" mode="v" timestamp="2008-12-31 10:30:51" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="n" annotation_time="6" interface="0" mode="v" timestamp="2009-01-07 03:55:44" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="6" interface="0" mode="v" timestamp="2009-01-19 03:09:55" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:00:53" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:11" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7772">
+      <interpretation>
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-09 21:55:17" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:38:13" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-11 16:25:36" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 21:51:43" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:37:54" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 15:05:19" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-15 16:05:26" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:47:27" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-22 15:20:18" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="a" timestamp="2008-12-29 22:56:07" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:00:59" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:19" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="NR" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7773">
+      <interpretation>
+        <anchor agree="y" annotation_time="21" interface="0" mode="a" timestamp="2008-12-09 21:55:42" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-10 15:38:16" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2008-12-11 16:25:44" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-11 21:51:53" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-12 14:37:56" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 15:05:23" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:05:30" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="125" interface="0" mode="a" timestamp="2008-12-17 15:49:33" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-22 15:20:28" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-05 22:31:17" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2009-01-07 03:57:50" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="a" timestamp="2009-01-10 12:29:21" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 19:23:15" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="v" timestamp="2008-12-30 23:23:13" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2008-12-31 10:31:31" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-06 00:07:39" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="v" timestamp="2009-01-07 12:31:37" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-09 08:05:14" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:00:57" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:15" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="8" ante="ne7771" interface="0" mode="a" timestamp="2008-12-29 22:56:17" type="PR" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="20" ante="ne7771" interface="0" mode="v" timestamp="2009-01-10 16:33:52" type="PR" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="3" ante="ne7771" interface="0" mode="v" timestamp="2009-01-05 22:31:14" type="PR" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="12" ante="ne7771" interface="0" mode="v" timestamp="2009-01-07 03:57:36" type="PR" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="12" ante="ne7771" interface="0" mode="v" timestamp="2009-01-10 12:29:07" type="PR" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="8" ante="ne7771" interface="0" mode="v" timestamp="2009-01-10 19:23:12" type="PR" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7774">
+      <interpretation>
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-09 21:55:51" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:38:20" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-11 16:25:51" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 21:51:57" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-12 14:37:58" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-15 15:05:25" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 16:05:34" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:49:38" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-22 15:20:33" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-29 22:56:22" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:01:01" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:23" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+</p>
+<p id="p2">
+<s id="s4">
+<W Lpos="JJR">More</W>
+<W Lpos="JJ">common</W>
+<W Lpos=",">,</W>
+<W Lpos="IN">at</W>
+<W Lpos="JJS">least</W>
+<W Lpos="IN">in</W>
+<ne AAcat="bare-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7775"><mod AAcat="AApre" id="AAm5"><W Lpos="JJ">popular</W></mod>
+<nphead id="AAh10"><W Lpos="NN">fiction</W></nphead></ne>
+<W Lpos=",">,</W>
+<ve id="ve8"><W Lpos="VBZ">is</W></ve>
+<ne id="ne7776"><ne id="ne7777"><ne AAcat="the-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7778"><W Lpos="DT">the</W>
+<nphead id="AAh11"><W Lpos="NN">mailing</W></nphead></ne>
+<W Lpos="IN">of</W>
+<ne id="ne7779"><ne AAcat="a-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7780"><W Lpos="DT">a</W>
+<nphead id="AAh12"><W Lpos="NN">part</W></nphead></ne>
+<W Lpos="IN">of</W>
+<ne AAcat="a-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7781"><W Lpos="DT">a</W>
+<nphead id="AAh13"><W Lpos="NN">person</W></nphead></ne></ne></ne>
+<W Lpos=",">,</W>
+<W Lpos="RB">often</W>
+<ne AAcat="a-np" AAgen="neut" AAnum="sing" AAper="per3" id="ne7782"><W Lpos="DT">a</W>
+<mod AAcat="AApre" id="AAm6"><W Lpos="JJ">kidnap</W></mod>
+<nphead id="AAh14"><W Lpos="NN">victim</W></nphead></ne></ne>
+<W Lpos=".">.</W>
+</s>
+<PDante id="ne7775">
+      <interpretation>
+        <anchor agree="y" annotation_time="11" interface="0" mode="a" timestamp="2008-12-09 21:56:06" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:38:24" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 16:25:57" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 21:52:03" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-12 14:38:02" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-15 15:05:30" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-15 16:05:42" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:49:41" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-22 15:20:37" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="20" interface="0" mode="a" timestamp="2008-12-29 22:56:44" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:02:33" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:29" type="DN" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7776">
+      <interpretation>
+        <anchor agree="y" annotation_time="20" interface="0" mode="a" timestamp="2008-12-09 21:56:28" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:38:30" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 16:26:02" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 21:52:10" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2008-12-12 14:38:11" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="a" timestamp="2008-12-15 16:05:58" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2008-12-17 15:49:51" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-22 15:20:40" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-29 22:56:54" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-05 22:31:27" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-07 03:58:13" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 12:29:50" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2009-01-10 19:23:34" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2008-12-30 23:23:20" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="v" timestamp="2008-12-31 10:31:43" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-06 00:07:45" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="v" timestamp="2009-01-07 12:31:44" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="15" interface="0" mode="v" timestamp="2009-01-07 03:58:07" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:02:37" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:10:43" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="8" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 15:05:39" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="55" ante="ne7757" interface="0" mode="v" timestamp="2009-01-09 08:06:15" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="24" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 16:34:26" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="4" ante="ne7757" interface="0" mode="v" timestamp="2009-01-05 22:31:23" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="23" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 12:29:46" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="9" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 19:23:26" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="PR" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7777">
+      <interpretation>
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-09 21:56:39" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:38:34" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-11 16:26:08" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-12 14:38:13" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:06:02" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-17 15:49:57" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-22 15:20:42" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="20" interface="0" mode="a" timestamp="2008-12-29 22:57:18" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="a" timestamp="2009-01-05 22:31:45" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-10 12:30:00" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-06 00:07:48" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="v" timestamp="2009-01-07 03:58:24" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2009-01-07 12:31:48" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="v" timestamp="2009-01-10 19:23:40" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="4" interface="0" mode="v" timestamp="2009-01-05 22:31:32" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:03:08" type="DN" user_id="e2" />
+        <anchor agree="y" annotation_time="5" ante="ne7757" interface="0" mode="a" timestamp="2008-12-11 21:52:16" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="6" ante="ne7757" interface="0" mode="a" timestamp="2008-12-15 15:05:46" type="DO" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="5" ante="ne7757" interface="0" mode="v" timestamp="2008-12-30 23:23:27" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="5" ante="ne7757" interface="0" mode="v" timestamp="2008-12-31 10:31:49" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="10" ante="ne7757" interface="0" mode="v" timestamp="2009-01-09 08:06:27" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="255" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 16:38:52" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="4" ante="ne7757" interface="0" mode="v" timestamp="2009-01-10 12:29:56" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="PR" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7778">
+      <interpretation>
+        <anchor agree="y" annotation_time="10" ante="ne7763" interface="0" mode="a" timestamp="2008-12-09 21:56:52" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="13" ante="ne7763" interface="0" mode="v" timestamp="2009-01-10 16:39:15" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="5" ante="ne7763" interface="0" mode="v" timestamp="2009-01-06 00:07:55" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="34" ante="ne7763" interface="0" mode="v" timestamp="2009-01-13 11:28:55" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="15" ante="ne7763" interface="0" mode="v" timestamp="2009-01-28 00:27:12" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="22" ante="ne7767" interface="0" mode="a" timestamp="2008-12-10 15:38:58" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="23" ante="ne7767" interface="0" mode="v" timestamp="2009-01-26 19:45:17" type="DO" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="y" annotation_time="15" ante="ne7767" interface="0" mode="v" timestamp="2009-01-26 21:06:24" type="DO" user_id="5b59dd45467cbc13d067761bdf6da343" user_rating="79" />
+        <anchor agree="n" annotation_time="8" ante="ne7767" interface="0" mode="v" timestamp="2009-01-10 12:30:09" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="17" ante="ne7767" interface="0" mode="v" timestamp="2009-01-26 02:25:15" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="y" annotation_time="13" interface="0" mode="a" timestamp="2008-12-11 16:26:23" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-12 14:38:15" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 15:05:50" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2008-12-15 16:06:13" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="62" interface="0" mode="a" timestamp="2008-12-29 22:58:22" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-31 10:31:57" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2009-01-06 00:08:01" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="a" timestamp="2009-01-07 03:59:03" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-07 12:31:57" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 12:30:12" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-19 03:10:15" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="16" interface="0" mode="a" timestamp="2009-01-20 16:58:18" type="DN" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="y" annotation_time="47" interface="0" mode="a" timestamp="2009-01-26 02:26:09" type="DN" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2009-01-26 19:03:07" type="DN" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-26 21:30:01" type="DN" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-26 23:39:14" type="DN" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="44" interface="0" mode="a" timestamp="2009-01-28 00:27:59" type="DN" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2009-01-28 01:26:52" type="DN" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="y" annotation_time="42" interface="0" mode="a" timestamp="2009-01-28 15:02:25" type="DN" user_id="2cba7cfa58eb93642548cff62d27140b" user_rating="86" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2009-01-29 16:21:16" type="DN" user_id="88beb82dcc5eb0daf9a1890e51c5da83" user_rating="77" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="v" timestamp="2009-01-05 22:31:59" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="v" timestamp="2009-01-10 19:23:54" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="15" interface="0" mode="v" timestamp="2009-01-27 16:18:40" type="DN" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="n" annotation_time="4" interface="0" mode="v" timestamp="2009-01-07 12:31:53" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:03:03" type="DN" user_id="e2" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="a" timestamp="2008-12-17 15:50:05" type="PR" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="13" interface="0" mode="a" timestamp="2009-01-24 01:47:12" type="PR" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2009-01-27 20:37:53" type="PR" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="51" interface="0" mode="a" timestamp="2009-01-28 08:55:10" type="PR" user_id="82a6f9849f8c19d854e5a63cc974a5cd" user_rating="67" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="v" timestamp="2009-01-23 19:42:13" type="PR" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="2" interface="0" mode="v" timestamp="2008-12-31 10:31:52" type="PR" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="n" annotation_time="16" interface="0" mode="v" timestamp="2009-01-20 16:58:01" type="PR" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="n" annotation_time="32" interface="0" mode="v" timestamp="2009-01-26 21:29:55" type="PR" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="3" ante="ne7756" interface="0" mode="a" timestamp="2008-12-22 15:20:46" type="DO" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="n" annotation_time="9" ante="ne7756" interface="0" mode="v" timestamp="2009-01-07 03:58:36" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="n" annotation_time="44" ante="ne7756" interface="0" mode="v" timestamp="2009-01-27 15:52:11" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="n" annotation_time="19" ante="ne7756" interface="0" mode="v" timestamp="2009-01-28 08:54:14" type="DO" user_id="82a6f9849f8c19d854e5a63cc974a5cd" user_rating="67" />
+        <anchor agree="n" annotation_time="18" ante="ne7756" interface="0" mode="v" timestamp="2009-01-28 14:34:37" type="DO" user_id="238913c9d61603f648ac82f7a0019b96" user_rating="69" />
+        <anchor agree="y" annotation_time="4" ante="ne7768" interface="0" mode="a" timestamp="2009-01-13 11:29:02" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="5" ante="ne7768" interface="0" mode="a" timestamp="2009-01-28 06:28:53" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="4" ante="ne7768" interface="0" mode="a" timestamp="2009-01-28 14:34:43" type="DO" user_id="238913c9d61603f648ac82f7a0019b96" user_rating="69" />
+        <anchor agree="y" annotation_time="9" ante="ne7768" interface="0" mode="v" timestamp="2009-01-27 22:38:38" type="DO" user_id="48599dfa2c8261333983f4fa60a5498f" user_rating="100" />
+        <anchor agree="n" annotation_time="6" ante="ne7768" interface="0" mode="v" timestamp="2009-01-24 01:46:56" type="DO" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="n" annotation_time="20" ante="ne7768" interface="0" mode="v" timestamp="2009-01-26 21:56:54" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="n" annotation_time="6" ante="ne7768" interface="0" mode="v" timestamp="2009-01-26 23:39:07" type="DO" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="21" ante="ne7757" interface="0" mode="a" timestamp="2009-01-26 21:57:18" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="y" annotation_time="9" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 23:46:45" type="DO" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="y" annotation_time="98" ante="ne7757" interface="0" mode="v" timestamp="2009-01-29 09:48:56" type="DO" user_id="6350f6155d46aa91c5e456929604de48" user_rating="83" />
+        <anchor agree="n" annotation_time="40" ante="ne7757" interface="0" mode="v" timestamp="2009-01-28 06:28:46" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="n" annotation_time="54" ante="ne7757" interface="0" mode="v" timestamp="2009-01-29 16:21:03" type="DO" user_id="88beb82dcc5eb0daf9a1890e51c5da83" user_rating="77" />
+        <anchor agree="y" annotation_time="24" ante="ne7760" interface="0" mode="a" timestamp="2009-01-27 15:52:38" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="y" annotation_time="23" ante="ne7760" interface="0" mode="v" timestamp="2009-01-29 00:10:00" type="DO" user_id="70b9e359372cd8726cf8de97e3508083" user_rating="75" />
+        <anchor agree="n" annotation_time="8" ante="ne7760" interface="0" mode="v" timestamp="2009-01-27 20:37:41" type="DO" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="n" annotation_time="73" ante="ne7760" interface="0" mode="v" timestamp="2009-01-28 01:26:23" type="DO" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="n" annotation_time="13" ante="ne7760" interface="0" mode="v" timestamp="2009-01-28 15:01:38" type="DO" user_id="2cba7cfa58eb93642548cff62d27140b" user_rating="86" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7779">
+      <interpretation>
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-09 21:56:58" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-10 15:39:02" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-11 16:26:30" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-12 14:38:18" type="DN" user_id="9ad3ca110790aeeff5bbbe7645511eac" user_rating="80" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-15 15:05:53" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:06:16" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:50:09" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="13" interface="0" mode="a" timestamp="2008-12-22 15:21:00" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-29 22:58:27" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-05 22:32:09" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-09 08:07:41" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 12:30:24" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="14" interface="0" mode="a" timestamp="2009-01-10 16:39:56" type="DN" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2009-01-12 15:37:40" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2008-12-30 23:23:35" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2008-12-31 10:32:03" type="DN" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="v" timestamp="2009-01-06 00:08:06" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="206" interface="0" mode="v" timestamp="2009-01-07 04:02:40" type="DN" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="v" timestamp="2009-01-07 12:32:03" type="DN" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:03:12" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:11:03" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="14" ante="ne7765" interface="0" mode="a" timestamp="2008-12-11 21:52:41" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="n" annotation_time="4" ante="ne7765" interface="0" mode="v" timestamp="2009-01-05 22:32:04" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="50" ante="ne7765" interface="0" mode="v" timestamp="2009-01-09 08:07:31" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="7" ante="ne7765" interface="0" mode="v" timestamp="2009-01-10 12:30:21" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="n" annotation_time="11" ante="ne7765" interface="0" mode="v" timestamp="2009-01-10 16:39:35" type="DO" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="n" annotation_time="7" ante="ne7765" interface="0" mode="v" timestamp="2009-01-12 15:37:35" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+    </PDante>
+<PDante id="ne7780">
+      <interpretation>
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-09 21:57:05" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:39:07" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 16:26:35" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="12" interface="0" mode="a" timestamp="2008-12-11 21:52:54" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2008-12-15 15:05:56" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-15 16:06:19" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-17 15:50:14" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="26" interface="0" mode="a" timestamp="2008-12-22 15:21:27" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-29 22:58:33" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-30 23:23:40" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:03:14" type="DN" user_id="e2" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+      <skip annotation_time="3" interface="0" timestamp="2008-12-12 14:38:21" user_id="ae2a86e7e67fac8cd27d13fb3b1944b2" user_rating="80" />
+    </PDante>
+<PDante id="ne7781">
+      <interpretation>
+        <anchor agree="y" annotation_time="18" ante="ne7763" interface="0" mode="a" timestamp="2008-12-09 21:57:25" type="DO" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="19" ante="ne7763" interface="0" mode="a" timestamp="2009-01-26 21:30:45" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="y" annotation_time="12" ante="ne7763" interface="0" mode="a" timestamp="2009-01-26 21:58:11" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="y" annotation_time="18" ante="ne7763" interface="0" mode="a" timestamp="2009-01-28 06:29:37" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="3" ante="ne7763" interface="0" mode="v" timestamp="2009-01-07 12:32:08" type="DO" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="7" ante="ne7763" interface="0" mode="v" timestamp="2009-01-09 08:07:50" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="n" annotation_time="7" ante="ne7763" interface="0" mode="v" timestamp="2009-01-12 15:37:50" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="19" ante="ne7763" interface="0" mode="v" timestamp="2009-01-13 11:29:23" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="n" annotation_time="8" ante="ne7763" interface="0" mode="v" timestamp="2009-01-19 03:10:24" type="DO" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="11" ante="ne7759" interface="0" mode="a" timestamp="2008-12-10 15:39:20" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" ante="ne7759" interface="0" mode="a" timestamp="2008-12-11 21:53:00" type="DO" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="10" ante="ne7759" interface="0" mode="a" timestamp="2008-12-30 23:23:55" type="DO" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="17" ante="ne7759" interface="0" mode="a" timestamp="2009-01-09 08:08:10" type="DO" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="6" ante="ne7759" interface="0" mode="a" timestamp="2009-01-12 15:37:58" type="DO" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="y" annotation_time="16" ante="ne7759" interface="0" mode="a" timestamp="2009-01-23 19:42:41" type="DO" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="y" annotation_time="3" ante="ne7759" interface="0" mode="v" timestamp="2009-01-06 00:08:10" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="6" ante="ne7759" interface="0" mode="v" timestamp="2009-01-07 04:02:49" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="15" ante="ne7759" interface="0" mode="v" timestamp="2009-01-26 02:26:28" type="DO" user_id="2c514d234dfc76a3e5070f4694e446d0" user_rating="57" />
+        <anchor agree="n" annotation_time="3" ante="ne7759" interface="0" mode="v" timestamp="2009-01-10 12:30:28" type="DO" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor ante="ne7759" favoured="y" mode="e" timestamp="2009-03-31 16:03:32" type="DO" user_id="e2" />
+        <anchor ante="ne7759" mode="e" timestamp="2009-04-16 18:11:53" type="DO" user_id="e18" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2008-12-11 16:26:45" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="28" interface="0" mode="a" timestamp="2008-12-15 16:06:48" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="139" interface="0" mode="a" timestamp="2008-12-22 15:23:47" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-29 22:58:39" type="DN" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="1" interface="0" mode="a" timestamp="2009-01-10 12:30:31" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2009-01-13 11:29:34" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-19 03:10:27" type="DN" user_id="402b898927571f4eedd5c12cff719bca" user_rating="85" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2009-01-26 23:39:27" type="DN" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="y" annotation_time="11" interface="0" mode="a" timestamp="2009-01-26 23:47:08" type="DN" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="a" timestamp="2009-01-27 16:19:09" type="DN" user_id="da3f9b8fc4f4e00caa41fd94a1245891" user_rating="92" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="a" timestamp="2009-01-27 20:38:12" type="DN" user_id="c87b7f677de916ca1b596c7629c95fa0" user_rating="58" />
+        <anchor agree="y" annotation_time="18" interface="0" mode="a" timestamp="2009-01-28 00:28:38" type="DN" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+        <anchor agree="y" annotation_time="6" interface="0" mode="v" timestamp="2009-01-20 16:58:26" type="DN" user_id="7a2d83c0470471d37a73b8bafbe29940" user_rating="85" />
+        <anchor agree="n" annotation_time="8" interface="0" mode="v" timestamp="2009-01-05 22:32:18" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="n" annotation_time="7" interface="0" mode="v" timestamp="2009-01-23 19:42:22" type="DN" user_id="50934f0e544d7f0b27f1feaf72670acf" user_rating="85" />
+        <anchor agree="n" annotation_time="9" interface="0" mode="v" timestamp="2009-01-24 01:47:23" type="DN" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:11:53" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="a" timestamp="2008-12-17 15:50:20" type="PR" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-26 21:06:31" type="PR" user_id="5b59dd45467cbc13d067761bdf6da343" user_rating="79" />
+        <anchor agree="y" annotation_time="45" interface="0" mode="v" timestamp="2009-01-28 01:27:44" type="PR" user_id="3eeeb15a4b0a99de114210f02fb23942" user_rating="85" />
+        <anchor agree="n" annotation_time="10" interface="0" mode="v" timestamp="2009-01-26 19:03:19" type="PR" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="n" annotation_time="23" interface="0" mode="v" timestamp="2009-01-26 19:45:43" type="PR" user_id="4762355a3b5fb938444c6ec99d5cb394" user_rating="64" />
+        <anchor agree="y" annotation_time="14" ante="ne7757" interface="0" mode="a" timestamp="2009-01-24 01:47:39" type="DO" user_id="8f36871fdda43aa27d92b00225c3c200" user_rating="75" />
+        <anchor agree="y" annotation_time="31" ante="ne7757" interface="0" mode="v" timestamp="2009-01-28 08:55:48" type="DO" user_id="82a6f9849f8c19d854e5a63cc974a5cd" user_rating="67" />
+        <anchor agree="n" annotation_time="21" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 21:30:24" type="DO" user_id="d4949f6bf45b0dce4f7554aafc70a12a" user_rating="92" />
+        <anchor agree="n" annotation_time="5" ante="ne7757" interface="0" mode="v" timestamp="2009-01-26 23:46:53" type="DO" user_id="070d23a427872b67d0fcb851c78c47c0" user_rating="75" />
+        <anchor agree="n" annotation_time="9" ante="ne7757" interface="0" mode="v" timestamp="2009-01-28 06:29:07" type="DO" user_id="fe73ddec4f129adaee554d4e7ac78325" user_rating="92" />
+        <anchor agree="y" annotation_time="21" ante="ne7756 ne7761" interface="0" mode="a" timestamp="2009-01-26 19:03:44" type="DO" user_id="318b812e3e6c13940bc14e4cabeef4fe" user_rating="67" />
+        <anchor agree="y" annotation_time="90" ante="ne7756 ne7761" interface="0" mode="v" timestamp="2009-01-27 15:54:25" type="DO" user_id="c4fa1e958c59259aa52e4ad8f8ec9a78" user_rating="55" />
+        <anchor agree="n" annotation_time="36" ante="ne7756 ne7761" interface="0" mode="v" timestamp="2009-01-26 21:57:57" type="DO" user_id="0e224a2cf327bb9f56fc2fc890157dd6" user_rating="62" />
+        <anchor agree="n" annotation_time="5" ante="ne7756 ne7761" interface="0" mode="v" timestamp="2009-01-26 23:39:23" type="DO" user_id="4a0062326e40353ff59fe836d3e3065d" user_rating="93" />
+        <anchor agree="n" annotation_time="16" ante="ne7756 ne7761" interface="0" mode="v" timestamp="2009-01-28 00:28:17" type="DO" user_id="21b5e3459418f1a0e1f621acd1332317" user_rating="100" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+      <skip annotation_time="1" interface="0" timestamp="2008-12-12 14:38:22" user_id="a2e818b65e095ced2fca7192e51723a7" user_rating="80" />
+      <skip annotation_time="11" interface="0" timestamp="2008-12-15 15:06:09" user_id="0398221176a23bc697015af83938c4b5" user_rating="64" />
+    </PDante>
+<PDante id="ne7782">
+      <interpretation>
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-09 21:57:32" type="DN" user_id="dcdd5016272c02bb97a138227ba7b5d6" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-10 15:39:25" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-11 16:26:51" type="DN" user_id="62406f46642ef117dae55c007332e55f" user_rating="80" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2008-12-11 21:53:04" type="DN" user_id="a399965d061dc0818ab4a087237c094d" user_rating="70" />
+        <anchor agree="y" annotation_time="9" interface="0" mode="a" timestamp="2008-12-15 15:06:18" type="DN" user_id="1cc1fdd4fd16ea7d492c436b8adbc93c" user_rating="64" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-15 16:06:53" type="DN" user_id="194d9de614706d298b46b549c65b489a" user_rating="90" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-17 15:50:25" type="DN" user_id="a4996b32fb8eac09dac7d2352d06c6ed" user_rating="67" />
+        <anchor agree="y" annotation_time="2" interface="0" mode="a" timestamp="2008-12-22 15:23:50" type="DN" user_id="7022eda7a118059ed6295be780b3eee9" user_rating="57" />
+        <anchor agree="y" annotation_time="4" interface="0" mode="a" timestamp="2008-12-30 23:24:00" type="DN" user_id="df9e34a596588c61bc92a5fa400c3367" user_rating="75" />
+        <anchor agree="y" annotation_time="3" interface="0" mode="a" timestamp="2009-01-06 00:08:21" type="DN" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="8" interface="0" mode="v" timestamp="2009-01-09 08:08:20" type="DN" user_id="cc88e92acba2d772750c238e2a514624" user_rating="62" />
+        <anchor agree="y" annotation_time="5" interface="0" mode="v" timestamp="2009-01-10 12:30:38" type="DN" user_id="0971f02496a81d82d69e1490c3ce12cc" user_rating="92" />
+        <anchor agree="y" annotation_time="10" interface="0" mode="v" timestamp="2009-01-10 16:40:36" type="DN" user_id="290aefabdc201ef125c3dfa3457ac4b3" user_rating="75" />
+        <anchor agree="y" annotation_time="7" interface="0" mode="v" timestamp="2009-01-12 15:38:07" type="DN" user_id="b3cc9c5c479b0121e110f2f306cb8ffb" user_rating="75" />
+        <anchor agree="n" annotation_time="8" interface="0" mode="v" timestamp="2009-01-13 11:29:45" type="DN" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor favoured="y" mode="e" timestamp="2009-03-31 16:03:43" type="DN" user_id="e2" />
+        <anchor favoured="y" mode="e" timestamp="2009-04-16 18:12:04" type="DN" user_id="e18" />
+        <anchor agree="y" annotation_time="13" ante="ne7781" interface="0" mode="a" timestamp="2008-12-29 22:58:53" type="DO" user_id="77676e2f9784289978cbbe3cd57e8c91" user_rating="66" />
+        <anchor agree="y" annotation_time="6" ante="ne7781" interface="0" mode="a" timestamp="2009-01-13 11:29:53" type="DO" user_id="1d4130cf4c4f20888487883a7abe5cb8" user_rating="85" />
+        <anchor agree="y" annotation_time="5" ante="ne7781" interface="0" mode="v" timestamp="2008-12-31 10:32:16" type="DO" user_id="adb8d9eccb282f4ecff9847ac3bbb17f" user_rating="71" />
+        <anchor agree="y" annotation_time="7" ante="ne7781" interface="0" mode="v" timestamp="2009-01-05 22:32:42" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor agree="y" annotation_time="9" ante="ne7781" interface="0" mode="v" timestamp="2009-01-07 04:03:01" type="DO" user_id="ab5eb791fed668645bae54c068e2c667" user_rating="71" />
+        <anchor agree="y" annotation_time="2" ante="ne7781" interface="0" mode="v" timestamp="2009-01-07 12:32:12" type="DO" user_id="6c624ea3d3b0cde2b35ac26c6159553f" user_rating="67" />
+        <anchor agree="n" annotation_time="5" ante="ne7781" interface="0" mode="v" timestamp="2009-01-06 00:08:17" type="DO" user_id="aee2b5ea7fdd43a086cb18b78f147727" user_rating="81" />
+        <anchor ante="ne7781" mode="e" timestamp="2009-04-16 18:12:04" type="DO" user_id="e18" />
+      <anchor favoured="y" mode="e" timestamp="2023-04-25 11:49:56" type="DN" user_id="e99" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="MPA" /><anchor timestamp="2023-04-25 11:59:15" type="DN" user_id="dali-full-anaphora-system" /></interpretation>
+      <skip annotation_time="2" interface="0" timestamp="2008-12-12 14:38:24" user_id="24823915ab68b00a47d712f3967ed327" user_rating="80" />
+    </PDante>
+</p>
+</section>
+</body>
+</gnomedoc>
